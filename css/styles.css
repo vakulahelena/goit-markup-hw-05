@@ -604,11 +604,11 @@ h1, h2, h3 {
 
 /* #region main-popup */
 
-.backdrop.is-open {
+/* .backdrop.is-open {
     opacity: 1;
     pointer-events: auto;
     visibility: visible;
-}
+} */
 
 .backdrop {
     background-color: rgba(46, 47, 66, 0.4);;
@@ -642,9 +642,9 @@ h1, h2, h3 {
 }
 
 
-.backdrop:not(.is-open) .modal {
+/* .backdrop:not(.is-open) .modal {
   transform: translate(-50%, -100%);
-}
+} */
 
 .modal-close {
     position: absolute;
