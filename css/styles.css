@@ -762,8 +762,12 @@ h1, h2, h3 {
     border-color: #4D5AE5;
 }
 
+.form-field-wrapper.comment {
+    margin-bottom: 16px;
+}
+
 .form-policy-wrapper {
-    margin-bottom: 16px
+    margin-bottom: 24px;
 }
 
 .custom-checkbox {
